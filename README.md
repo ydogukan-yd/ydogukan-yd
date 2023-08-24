@@ -7,7 +7,7 @@
 ## About Me
 - A recent Computer Science graduate and a great enthusiasm for full-stack development.
 
-- Software Engineer experience in great companies such as: **Udemy.**
+- Software engineering experience in great companies such as: **Udemy.**
 
 - I am currently learning: **Backend development with Golang.**
 
@@ -15,7 +15,7 @@
   
 ## Contact
 <p>
-  <a href="mailto:ydogukan-yd@gmail.com">
+  <a href="mailto:ydogukan.yd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ydogukan/">
